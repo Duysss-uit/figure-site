@@ -1,0 +1,26 @@
+[
+  {
+    "id": "usr-admin-01",
+    "name": "Figure Administrator",
+    "email": "admin@figure.vn",
+    "password": "admin123",
+    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=ArtToyCurator",
+    "isAdmin": true,
+    "phone": "0901 999 888",
+    "city": "TP. Hồ Chí Minh",
+    "district": "Quận 1",
+    "address": "Figure Showroom, 142 Nguyễn Huệ"
+  },
+  {
+    "id": "usr-customer-01",
+    "name": "Nguyễn Minh Duy",
+    "email": "duyng2006@gmail.com",
+    "password": "123456",
+    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=KurokawaCollector",
+    "isAdmin": false,
+    "phone": "0908 412 889",
+    "city": "TP. Hồ Chí Minh",
+    "district": "Quận 1",
+    "address": "142 Nguyễn Huệ, Phường Bến Nghé"
+  }
+]

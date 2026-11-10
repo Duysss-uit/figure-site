@@ -1,0 +1,6 @@
+{
+  "name": "Kurokawa Archive — Figure & Collectible Toys",
+  "description": "Cửa hàng chuyên cung cấp Figure tỉ lệ chuẩn, mô hình Mecha và Đồ chơi sưu tầm nghệ thuật phiên bản giới hạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
